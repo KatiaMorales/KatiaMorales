@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Katia Elyded</h1>
 
 ## About me 
-Recently graduated actuary skilled in R, Microsoft Excel, Python, and Power BI. Strong analytical skills, data management, problem-solving, and communication skills. Professional graduated from Universidad de las Américas Puebla
+Recently graduated actuary skilled in **R**, **Microsoft Excel**, **Python**, and **Power BI**. Strong analytical skills, data management, problem-solving, and communication skills. Professional graduated from Universidad de las Américas Puebla
 
-- 📫 Contact **katiaelyded29@gmail.com**
+## Contact
+
+- 📫 **katiaelyded29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
