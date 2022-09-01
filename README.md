@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**KatiaMorales/KatiaMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Black Construction Building LinkedIn Banner](https://user-images.githubusercontent.com/97979660/188028310-2c3c0c08-b78d-4703-a265-82c7c5a6a795.png)
 
 Here are some ideas to get you started:
 
