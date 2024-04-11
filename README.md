@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Katia Elyded</h1>
 
 ## About me 
-Recently graduated actuary skilled in **R**, **Microsoft Excel**, **Python**, **SQL** and **Power BI**. Strong analytical skills, data management, problem-solving, and communication skills. Professional graduated from Universidad de las Américas Puebla.
+Actuary skilled in **R**, **Microsoft Excel**, **Python**, **SQL** and **Power BI**. Strong analytical skills, data management, problem-solving, and communication skills. Professional graduated from Universidad de las Américas Puebla.
 
-Reto Actinver 2022
+
 
 ## Contact
 
