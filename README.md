@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katia Elyded</h1>
 
 ## About me 
-Actuary skilled in **R**, **Microsoft Excel**, **Python**, **SQL** and **Power BI**. Strong analytical skills, data management, problem-solving, and communication skills. Professional graduated from Universidad de las Américas Puebla.
+Actuarial Professional, graduate from Universidad de las Américas Puebla and currently pursuing a Master's in Applied Artificial Intelligence at Tecnológico de Monterrey. With strong experience in advanced data analysis, automation, and tool development using **Microsoft Excel, VBA, Python, SQL and Tableau**. Currently expanding my expertise in machine learning, applying supervised and unsupervised models for data-driven decision-making. Passionate about leveraging AI and analytics to optimize business processes and generate strategic insights.
 
 
 
